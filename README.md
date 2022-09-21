@@ -11,3 +11,11 @@ Enhance the Robo Advisor with an Amazon Lambda Function: Create an Amazon Lambda
 
 # Files
 Json Files for test events
+
+
+# AWS LEX
+![image](https://user-images.githubusercontent.com/106267420/191587821-fdaf1573-f30f-41f9-9276-580199728a7c.png)
+
+# AWS Lambda
+![image](https://user-images.githubusercontent.com/106267420/191587956-e56258ec-8c02-43cd-a464-e19d0eaac9f5.png)
+
